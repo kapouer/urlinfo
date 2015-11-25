@@ -1,0 +1,26 @@
+{
+  "name": "urlinfo",
+  "version": "0.0.0",
+  "description": "Get information and representation about the resource located by a URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kapouer/urlinfo.git"
+  },
+  "keywords": [
+    "thumbnail",
+    "data-uri",
+    "url",
+    "inspect",
+    "media",
+    "mime"
+  ],
+  "author": "Jérémy Lal <kapouer@melix.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kapouer/urlinfo/issues"
+  }
+}
